@@ -5,7 +5,7 @@ app = Flask(__name__)
 policies = [
     {
         "policy_id": "POL1001",
-        "customer_name": "Rahull",
+        "customer_name": "Rahul",
         "vehicle_number": "KA01AB1234",
         "vehicle_type": "Car",
         "status": "ACTIVE"
